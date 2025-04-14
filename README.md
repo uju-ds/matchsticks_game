@@ -15,23 +15,43 @@ Must remove between 1-3 sticks!
 Player 2 enter how many sticks to remove: 0
 
 Must remove between 1-3 sticks!
+
 Player 2 enter how many sticks to remove: 2
+
 There are 17 sticks left
+
 Player 1 enter how many sticks to remove: 3
+
 There are 14 sticks left
+
 Player 2 enter how many sticks to remove: 1
+
 There are 13 sticks left
+
 Player 1 enter how many sticks to remove: 3
+
 There are 10 sticks left
+
 Player 2 enter how many sticks to remove: 2
+
 There are 8 sticks left
+
 Player 1 enter how many sticks to remove: 3
+
 There are 5 sticks left
+
 Player 2 enter how many sticks to remove: 1
+
 There are 4 sticks left
+
 Player 1 enter how many sticks to remove: 2
+
 There are 2 sticks left
+
 Player 2 enter how many sticks to remove: 1
+
 There are 1 sticks left
+
 Player 1 enter how many sticks to remove: 3
+
 Player 1 lost the game!
