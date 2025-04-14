@@ -5,10 +5,15 @@ The game is called 21 matchsticks, or something on those lines. The idea of the 
 
 Game of sticks
 Player 1 enter how many sticks to remove: 2
+
 There are 19 sticks left
+
 Player 2 enter how many sticks to remove: 4
+
 Must remove between 1-3 sticks!
+
 Player 2 enter how many sticks to remove: 0
+
 Must remove between 1-3 sticks!
 Player 2 enter how many sticks to remove: 2
 There are 17 sticks left
