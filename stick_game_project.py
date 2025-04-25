@@ -1,8 +1,3 @@
-"""
-COMP.CS.100 The first Python program of programming 1.
-Creator: Ujunwa Edum
-Student id number: 153062092
-"""
 def main():
     num_sticks = 21
     players = ["Player 1", "Player 2"]
